@@ -1,0 +1,20 @@
+.main {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    gap: 10%;
+}
+
+.editTitle {
+    padding: 0;
+    padding-top: 5%;
+    font-size: 0.7em;
+}
+
+.slideNumber {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 1%;
+}
